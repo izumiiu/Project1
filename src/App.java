@@ -4,5 +4,8 @@ public class App {
         System.out.println("hello world");
         System.out.println("hello world");
         System.out.println("Than auan");
+        System.out.println("hello world");
+        System.out.println("hello world");
+        System.out.println("Than auan");
     }
 }
